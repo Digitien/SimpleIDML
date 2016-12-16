@@ -437,6 +437,14 @@ in your PATH.
 Revisions
 =========
 
+0.92.7
+------
+
+Bug fixes
+'''''''''
+
+- FillTint wasn't managed.
+
 0.92.6
 ------
 
